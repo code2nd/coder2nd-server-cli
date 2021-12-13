@@ -1,6 +1,6 @@
 {
   "name": "coder2nd-server-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli to help you quickly build and develop node.js back-end projects",
   "private": false,
   "main": "index.js",
@@ -21,7 +21,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/code2nd/coder2nd-server-cli.git"
